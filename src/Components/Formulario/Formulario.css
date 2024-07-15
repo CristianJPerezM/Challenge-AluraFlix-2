@@ -1,0 +1,26 @@
+.formulario{
+    display: block;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0 20px 50px;
+    gap: 43px;
+    position: absolute;
+    width: 704px;
+    height: 970px;
+    left: calc(50% - 704px/2);
+    top: calc(50% - 370px/2 - 0.5px);
+    background: #03122F;
+    border: 5px solid #6BD1FF;
+    border-radius: 20px;
+}
+
+.formulario_form_h2{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 70px;    
+    text-transform: uppercase;
+    color: #2271D1;
+}

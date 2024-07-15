@@ -1,0 +1,21 @@
+.colaborador{
+    width: 280px;
+    margin-bottom: 24px;
+    border: solid 5px rgb(23, 199, 96) ;
+    position: relative;
+}
+
+.colaborador img{
+    width: 250px;
+    position: relative;
+}
+
+
+.botones{
+    display: flex;
+    width: 24px;
+    height: 24px;
+    gap: 90px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}

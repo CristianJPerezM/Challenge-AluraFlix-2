@@ -1,0 +1,32 @@
+.descripcion{
+    margin: 0 0 20px 0;
+    font-family: 'Source Sans Pro';
+    gap: 15px;
+    align-items: flex-start;
+}
+
+.descripcion label{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    text-transform: capitalize;
+    padding: 10px 0 0 20px;
+    font-size: 26px;
+    font-weight: 600;
+    display: block;
+    color: #FFFFFF;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.descripcion input{
+    width: 80%;
+    height: 112px;
+    font-size: 20px;
+    border: 3px solid #113d72;
+    border-radius: 10px;
+    padding: 10px 20px;
+    outline-color: #2271D1;
+    background-color: transparent;
+    box-sizing: border-box;
+    color: #FFFFFF;
+}

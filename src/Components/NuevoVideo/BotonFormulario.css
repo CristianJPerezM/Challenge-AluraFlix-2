@@ -1,0 +1,68 @@
+.boton-formulario{
+
+    display: flex;
+    flex-direction: row;
+    align-items: last center;
+    padding: 20px 0 30px 440px;
+    gap: 200px;
+    flex: none;
+    order: 6;
+    align-self: center;
+    flex-grow: 0;
+}
+
+button{
+    width: 180.12px;
+    height: 54px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    background-color: transparent;
+    border: 2px solid #FFFFFF;
+    cursor: pointer;
+}
+
+.guardar{
+    /* left: 0%; */
+    /* right: 0%; */
+    /* top: 0%; */
+    /* bottom: 0%; */
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    /* display: block; */
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.limpiar{
+    /* left: 0%; */
+    /* right: 0%; */
+    /* top: 0%; */
+    /* bottom: 0%; */
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    /* display: block; */
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+button:hover{
+    color: #2271D1;
+    background: rgba(0, 0, 0, 0.9);
+    border: 2px solid #2271D1;
+    box-shadow: inset 0px 0px 12px 4px #2271D1;
+}

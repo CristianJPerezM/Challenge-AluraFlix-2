@@ -1,0 +1,10 @@
+.boton-cerrar{
+    display: flex;
+    justify-content: end;
+    padding: 30px 30px 10px 0 ;
+}
+
+.boton-cerrar img{
+    position: absolute;
+    cursor: pointer;
+}
